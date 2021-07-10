@@ -46,3 +46,8 @@ img {
     height: 345;
     text-align: center;
 }
+
+footer {
+    background-color: grey;
+    height: 80px;
+}
