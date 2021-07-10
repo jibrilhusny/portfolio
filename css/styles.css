@@ -1,12 +1,13 @@
 h3 {
     text-align: center;
-    text-decoration: none;
+    text-decoration-line: underline;
     color: crimson;
-    margin-top: 100x;
+    margin-top: 20x;
 }
 
 .container {
     size: 90%;
+    background-color: ghostwhite;
 }
 
 .container h3 {
@@ -23,4 +24,13 @@ h3 {
 #tropical {
     margin: 25px;
     text-align: justify;
+}
+
+h5 {
+    color: red;
+    text-decoration-line: none;
+}
+
+.links {
+    color: royalblue;
 }
