@@ -1,0 +1,22 @@
+h3 {
+    text-align: center;
+    text-decoration: none;
+    color: crimson;
+    margin-top: 100x;
+}
+
+.container {
+    size: 90%;
+}
+
+.container h3 {
+    color: #f7325e;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 45px;
+}
+
+#tropical {
+    margin: 25px;
+    text-align: justify;
+}
