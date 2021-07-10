@@ -48,6 +48,15 @@ img {
 }
 
 footer {
-    background-color: grey;
+    background-color: rgb(11, 116, 236);
     height: 80px;
+    text-align: right;
+}
+
+strong {
+    color: white;
+}
+
+footer li {
+    color: white;
 }
